@@ -57,6 +57,7 @@ section {
     justify-self: center;
     font-size: 1.5em;
     padding: 0px 10px;
+    margin-top: -10px;
 }
 
 .card-head {
